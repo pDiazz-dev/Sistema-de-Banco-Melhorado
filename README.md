@@ -13,7 +13,7 @@ Este é um projeto simples de um sistema bancário feito em Java. Ele simula ope
 - Sistema de login com senha
 - Interface de terminal interativa
   
-##🤔 Como foi feito?
+## 🤔 Como foi feito?
  - Fiz com apenas a utilização da linguagem Java
  - Focado em entender mais POO (Programação Orientada a Objetos)
  - As contas cadastratas foram salvas em Vetores/Arrays
